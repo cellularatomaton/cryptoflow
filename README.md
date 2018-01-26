@@ -1,17 +1,13 @@
-This project is no longer actively developed or maintained.
+# CryptoFlow VR
 
-# SoundStage VR
-
-SoundStage VR is a virtual reality music sandbox built specifically for room-scale VR. Whether you’re a professional DJ creating a new sound, or a hobbyist who wants to rock out on virtual drums, SoundStage gives you a diverse toolset to express yourself.
-
-This is not an officially supported Google product.
+CryptoFlow VR is a virtual reality cryptocurrency market data analysis sandbox and trading environment built specifically for room-scale VR. Whether you’re a professional trader running a complex set of algorithmic trading strategies, or a day trader looking for the ultimate edge, CryptoFlow gives you a diverse toolset to implement your strategies.
 
 ## Requirements
 * An HTC Vive or Oculus Touch running SteamVR
 * Unity 5.5.5f1 if you'd like to modify the project
 
 ## Setup
-The Unity project can run without any additional components - just open the main scene to get started. 
+The Unity project can run without any additional components - just open the cryptoflow scene to get started. 
 
 That being said, the project is missing two third-party components available in the Unity Asset Store:
 
@@ -20,17 +16,5 @@ That being said, the project is missing two third-party components available in 
 
 To use each of these assets, add the full asset package to the *third_party* folder. If they are not automatically replaced, remove the corresponding placeholder scripts in that same folder.
 
-A full build of the project with the third-party components is included in the *bin* folder.
-
-### Credits
-###### CREATED BY
-Logan Olson
-
-###### SOUND DESIGNER (SAMPLES)
-Reek Havok
-
-###### PROGRAMMING CONSULTANT
-Giray Ozil <-iumlat
-
-###### MUSIC CONSULTANT
-Ron Fish
+## Acknowledgement:
+This project began as a fork of SoundStage VR, from which the interaction system and look / feel were derived.
